@@ -8,7 +8,7 @@
 
 #include "Encoder.h"
 
-#define TEST_LATENCY 1
+#define TEST_LATENCY 0
 
 
 
